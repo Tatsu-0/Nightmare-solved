@@ -7,4 +7,5 @@ Nightmare by guyintuxedo modules solved.
 1. pico ctf 2018 strings
 2. helithumper re
 3. CSAW 2019 beleaf
-4. 
+4. Tamu19 pwn1
+5. WIP
