@@ -1,0 +1,6 @@
+This was an easy one to start off on which you only needed one command.
+But its good to get in the habit to check the file:
+'file strings' command will give information about the file.
+You can run the file and see what it says or asks for.
+If you cant run the file you can give it execution permissions by 'chmod +x strings'
+The only command you need to give it is 'strings strings | grep {' which will find the flag in the file.
