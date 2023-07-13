@@ -1,3 +1,5 @@
 'file strings' to get information
 './strings' to gain more information (may need to use 'chmod +x')
 'strings strings | grep {' to get the flag
+
+flag = picoCTF{sTrIngS_sAVeS_Time_3f712a28}
