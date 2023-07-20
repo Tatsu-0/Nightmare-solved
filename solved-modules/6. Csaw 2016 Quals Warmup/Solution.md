@@ -1,4 +1,4 @@
-Before beginning to reverse engineer the warmup file we need to have the flag.txt in the same directory as teh warmup file. <br>
+Before beginning to reverse engineer the warmup file we need to have the flag.txt in the same directory as the warmup file. <br>
 Once we get our information about the file we know that it is a 64-bit binary and when we run it, it displays an address and prompts us with an input. <br>
 When we go to main in Ghidra, we see that the address that it gave us is the address of the function easy. <br>
 At the bottom of main we see that it calls the function gets, which is vulnerable due to it not limiting the the data input. <br>
