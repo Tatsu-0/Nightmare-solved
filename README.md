@@ -12,4 +12,5 @@ Nightmare by guyintuxedo modules solved.
 5. TokyoWesterns'17: JustDoIt
 6. Csaw 2016 Quals Warmup
 7. Csaw Quals 2018 Get It
-8. WIP
+8. Picoctf 2018 echo
+9. WIP
