@@ -1,4 +1,3 @@
-WIP
 We are first given the libc-2.27.so file and the dreamheaps file is 64-bit with partial RELRO with canary and NX enabled. <br>
 When runnning the program there are 4 different options, write, read, edit, and delete dream. <br>
 So when we go into ghidra and look into the each function we see there are some vulnerbilites in them. <br>
