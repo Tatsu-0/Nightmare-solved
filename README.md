@@ -14,4 +14,7 @@ Nightmare by guyintuxedo modules solved.
 7. Csaw Quals 2018 Get It
 8. Picoctf 2018 echo
 9. Tokyowesterns 2016 greeting
-10. WIP
+10. Csaw 2018 doubletrouble Pwn 200 (The Floating)
+11. Defcon Quals 2016 xkcd
+12. Sunshine CTF 2017 Alternate Solution
+13. swampctf19_dreamheaps (WIP)
