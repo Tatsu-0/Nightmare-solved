@@ -4,6 +4,7 @@ Nightmare by guyintuxedo modules solved.
 # This repo is just to show the flags from the modules I did and a quick explaination on how I solved it.
 (You can find the original repo at https://github.com/guyinatuxedo/nightmare)
 (If there are any errors please let me know and I will fix them as soon as possible)
+(Some exploits are in python2 so some may need to be converted to python3)
 
 1. pico ctf 2018 strings
 2. helithumper re
