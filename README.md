@@ -19,3 +19,4 @@ Nightmare by guyintuxedo modules solved.
 11. Defcon Quals 2016 xkcd
 12. Sunshine CTF 2017 Alternate Solution
 13. h3_time
+14. hsctf 2019 tux talk show
