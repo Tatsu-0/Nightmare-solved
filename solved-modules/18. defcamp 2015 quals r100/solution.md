@@ -10,6 +10,7 @@ To solve this we will use Angr and we need to know three things: <br>
 0x4007a1, sets EAX equal to 0x0. <br>
 3. Instruction address to know if our input is incorrect. <br>
 0x400790, moves 1 into EAX. <br>
+<br>
 After that we can now make out Angr script and solve the challenge. <br>
 <br>
 password = Code_Talkers <br>
