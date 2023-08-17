@@ -8,7 +8,7 @@ So, we are working with a char array that moves in the input one byte at a time.
 It moves in 35 bytes which is the same amount for the length of data we pass in as an argument. <br>
 We know, what input we control, the algorithm that is passed through, and the end result that it has to be. <br>
 That is all we need to make a z3 script that will find the solution for us. <br>
-<br<
+<br>
 Flag = hsctf{w0w_y0u_kn0w_d4_wA3_8h2bA029} <br>
 <br>
 *make sure to pip install BitVector and pip install mythril* <br>
