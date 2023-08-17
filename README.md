@@ -21,3 +21,7 @@ Nightmare by guyintuxedo modules solved.
 13. h3_time
 14. hsctf 2019 tux talk show
 15. Sunshine CTF 2017 Prepared
+16. hsctf 2019 A-Byte
+17. Tokyowesterns rev_rev_rev
+18. defcamp 2015 quals r100
+19. Securityfest 2019 fairlight
