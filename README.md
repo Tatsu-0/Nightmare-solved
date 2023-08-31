@@ -29,3 +29,8 @@ Nightmare by guyintuxedo modules solved.
 21. xctf16_b0verflow
 22. Swamp ctf 2019 syscaller
 23. ROPEmporium ret2csu
+24. Hxp 2018 poor canary
+25. protostar heap 0
+26. protostar heap 1
+27. protostar Heap 2
+28. zctf 2016 note2
