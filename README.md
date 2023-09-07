@@ -33,4 +33,4 @@ Nightmare by guyintuxedo modules solved.
 25. protostar heap 0
 26. protostar heap 1
 27. protostar Heap 2
-28. zctf 2016 note2 (WIP)
+28. zctf 2016 note2
